@@ -5013,7 +5013,7 @@ a img {
     margin: 5px auto
 }
 
-#projects {
+#certifications {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -5023,31 +5023,31 @@ a img {
 }
 
 @media only screen and (min-width:550px) {
-    #projects {
+    #certifications {
         width: 80%
     }
 }
 
-.user-projects {
+.user-certifications {
     margin: 20px auto
 }
 
-.user-projects img {
+.user-certifications img {
     max-width: 100%;
     height: auto;
     border-radius: 5px
 }
 
-.user-projects h5 {
+.user-certifications h5 {
     margin: 0
 }
 
-.user-projects li {
+.user-certifications li {
     color: #1488CC;
     font-size: 1.1rem
 }
 
-.user-projects p {
+.user-certifications p {
     margin-right: 5px
 }
 

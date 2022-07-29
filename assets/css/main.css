@@ -4779,6 +4779,10 @@ template {
     color: #68b604
 }
 
+.devicon-jira-plain-wordmark.colored{
+    font-size: 5rem;
+}
+
 article,
 aside,
 figcaption,
@@ -5018,6 +5022,10 @@ a img {
 .user-details {
     text-align: center;
     margin: 5px auto
+}
+
+.skills{
+    text-align: center;
 }
 
 #certifications {
